@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h2><em><strong><span style="color: #ff0000;">npm i</span>&nbsp;</strong> - установка</em></h2>
 <h2><em><span style="color: #ff0000;">npm start</span> - запуск</em></h2>
 <p>&nbsp;</p>
