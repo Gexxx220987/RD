@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2><em><strong><span style="color: #ff0000;">npm i</span>&nbsp;</strong> - установка</em></h2>
 <h2><em><span style="color: #ff0000;">npm start</span> - запуск</em></h2>
 <p>&nbsp;</p>
@@ -49,3 +50,11 @@
 </tr>
 </tbody>
 </table>
+=======
+```npm i``
+```npm start``
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+Логин sf_student1	 Пароль 4i2385j
+>>>>>>> 30ddf12b9b2bdedf4ac490ec1ac4ea34b6eab546
